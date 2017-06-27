@@ -1,0 +1,1 @@
+speechSynthesis.speak(new SpeechSynthesisUtterance(document.getElementById("text").value));
